@@ -14,7 +14,7 @@ Built with VanillaJS this form has all the required validation to get an authent
 
 -   charan teja- follow me on 👇
 -   [GitHub](https://www.github.com/charanteja7780)
--   [LinkedIn](https://www.linkedin.com/in/charanteja/)
+-   [LinkedIn](https://www.linkedin.com/in/charann-teja/)
 
 
 ## Live Link
